@@ -5,9 +5,9 @@ Our top sponsors are shown below! [[Become a Sponsor](https://readmesponsors.com
 <table style="background-color: white; border: 1px solid black">
     <tbody>
         <tr width="1200px">
-            <td width="300px" align="center" style="border: 1px solid black">
-                <a href="https://shorebird.dev"><img src="https://raw.githubusercontent.com/felangel/bloc/master/assets/sponsors/shorebird.png" width="225"/></a>
-            </td>
+            <a href="https://shorebird.dev" style="display: block; width: 300px; text-align: center; border: 1px solid black">
+                <img src="https://raw.githubusercontent.com/felangel/bloc/master/assets/sponsors/shorebird.png" width="225"/>
+            </a>
             <td width="300px" align="center" style="border: 1px solid black">
                 <a href="https://www.monterail.com/services/flutter-development/?utm_source=bloc&utm_medium=logo&utm_campaign=flutter"><img src="https://raw.githubusercontent.com/felangel/bloc/master/assets/sponsors/monterail.png" width="225"/></a>
             </td>
