@@ -50,3 +50,7 @@ Our top sponsors are shown below! [[Become a Sponsor](http://127.0.0.1:5001/read
         </tr>
     </tbody>
 </table>
+
+<img width="420" alt="courier_dot_com" src="https://github.com/user-attachments/assets/319d8966-6839-498d-8ead-ce8cc72c3bca" />
+
+
