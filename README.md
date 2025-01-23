@@ -1,7 +1,7 @@
 ## Sponsors
 
 Our top sponsors are shown below! 
-[[Become a Sponsor](http://127.0.0.1:5001/readmesponsors-prod/us-central1/api/sponsors/e9al9b3gDnuX8decpEYS){:target="_blank"}]
+[Become a Sponsor](http://127.0.0.1:5001/readmesponsors-prod/us-central1/api/sponsors/e9al9b3gDnuX8decpEYS)
 
 <table style="background-color: white; border: 1px solid black">
     <tbody>
