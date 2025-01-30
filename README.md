@@ -1,4 +1,4 @@
-## Sponsors
+[## Sponsors
 
 Our top sponsors are shown below! [[Become a Sponsor](http://127.0.0.1:5001/readmesponsors-prod/us-central1/api/sponsors/6U6fVz2gfBsTZ7Dd5RFw)]
 
@@ -50,3 +50,4 @@ Our top sponsors are shown below! [[Become a Sponsor](http://127.0.0.1:5001/read
         </tr>
     </tbody>
 </table>
+](https://readmesponsors-prod.web.app/)
