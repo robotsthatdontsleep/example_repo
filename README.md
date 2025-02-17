@@ -1,6 +1,6 @@
 ## Sponsors
 
-Our top sponsors are shown below! [Become a Sponsor](127.0.0.1:5001/sponsors/YTi2n8kMjjX1CmfcEeos)
+Our top sponsors are shown below! [Become a Sponsor](https://127.0.0.1:5001/sponsors/YTi2n8kMjjX1CmfcEeos)
 
 <table style="background-color: white; border: 1px solid black">
   <tbody>
